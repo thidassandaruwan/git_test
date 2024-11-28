@@ -1,1 +1,3 @@
 Hello Odin!
+
+testing commit message omit "-m" (message flag)
